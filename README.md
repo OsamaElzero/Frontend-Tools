@@ -1,6 +1,13 @@
 # Front-End Developers Tools
 All Tools and Technologies Needed for Front-End Developers
 
+## Editors
+
+- Visual Studio Code
+- Atom
+- Coda *Mac Only*
+- 
+
 ## Css Preprocessors and Tools
 
 - [Sass](https://sass-lang.com/)
@@ -30,3 +37,36 @@ All Tools and Technologies Needed for Front-End Developers
 - [Blade](https://github.com/bminer/node-blade)
 
 ## JavaScript Transpilers and Compilers
+
+## Design Frameworks and UI Kits
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Foundation](https://foundation.zurb.com/)
+- [Pure](https://purecss.io/)
+- [MaterializeCSS](https://materializecss.com/)
+- [HTML Kickstart](http://www.99lime.com/elements/)
+- [GroundWork](https://groundworkcss.github.io/)
+- [Skeleton](http://getskeleton.com/)
+- [UI Kit](https://getuikit.com/)
+- [Kube](https://imperavi.com/kube/)
+- [KickOff](http://trykickoff.com/)
+- [BootFlat](https://bootflat.github.io/)
+
+## Grid Only Tools 
+
+- [Grid Guide](http://grid.guide/)
+- [960 Grid](https://960.gs/)
+- [Jeet](http://jeet.gs/)
+- [SimpleGrid](https://thisisdallas.github.io/Simple-Grid/)
+
+## Task Runners
+
+- Gulpjs
+- Gruntjs
+
+## Websites to Follow
+
+## Websites to Test Your Code
+
+- Codepen
