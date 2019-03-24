@@ -1,12 +1,18 @@
 # Front-End Developers Tools
 All Tools and Technologies Needed for Front-End Developers
 
-## Editors
+## Editors and IDE's
 
-- Visual Studio Code
-- Atom
-- Coda *Mac Only*
-- 
+- [VSCode](https://code.visualstudio.com/) Free
+- [Atom](https://atom.io/) Free
+- [SublimeText](http://www.sublimetext.com/) $$
+- [Coda](https://panic.com/coda/) $$
+- [KomodoEdit](https://www.activestate.com/products/komodo-ide/downloads/edit/) Free
+- [Brackets](http://brackets.io/) Free
+- [Notepad++](https://notepad-plus-plus.org/) Free
+- [Vim](https://www.vim.org/) Free
+- [PHP Storm](https://www.jetbrains.com/phpstorm/) $$
+- [AptanaStudio](http://www.aptana.com/) Free
 
 ## Css Preprocessors and Tools
 
