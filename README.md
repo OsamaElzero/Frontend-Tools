@@ -54,6 +54,10 @@ All Tools and Technologies Needed for Front-End Developers
 - [HTML Kickstart](http://www.99lime.com/elements/)
 - [GroundWork](https://groundworkcss.github.io/)
 - [Skeleton](http://getskeleton.com/)
+- [Beared](http://buildwithbeard.com/)
+- [Bulma](https://bulma.io/)
+- [Tachyons](http://tachyons.io/)
+- [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
 - [UI Kit](https://getuikit.com/)
 - [Kube](https://imperavi.com/kube/)
 - [KickOff](http://trykickoff.com/)
@@ -73,6 +77,53 @@ All Tools and Technologies Needed for Front-End Developers
 
 ## Websites to Follow
 
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Css-Tricks](https://css-tricks.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [Scotch](https://scotch.io/)
+- [A List APart](https://alistapart.com/)
+- [DavidWalsh](https://davidwalsh.name/)
+- [Daverupert](https://daverupert.com/)
+- [Brianlovin](https://brianlovin.com/)
+
 ## Websites to Test Your Code
 
-- Codepen
+- [Codepen](https://codepen.io/)
+- [JsFiddle](https://jsfiddle.net/)
+- [CssDeck](http://cssdeck.com/)
+- [JsBin](https://jsbin.com/)
+
+## Version Controls
+
+- [Github](https://github.com/)
+- [BitBucket](https://bitbucket.org/product)
+- [GitLab](https://about.gitlab.com/)
+- [CodeAnyWhere](https://codeanywhere.com/)
+
+## References
+
+- [MDN](https://developer.mozilla.org/en-US/)
+- [HTML5Please](https://html5please.com/)
+- [CanIUse](https://caniuse.com/)
+- [W3Schools](https://www.w3schools.com/)
+
+## Courses Websites
+
+- [Udacity](https://www.udacity.com/)
+- Lynda
+- Coursera
+- [TeamTreeHouse](https://teamtreehouse.com/)
+- [Udemy](https://www.udemy.com/)
+- Edx
+- [EggHead](https://egghead.io/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Pluralsight](https://www.pluralsight.com/codeschool)
+- [LevelUpTuts](https://www.leveluptutorials.com/)
+
+## Productivity Tools
+
+- [Trello](https://trello.com/)
+- [Todoist](https://todoist.com/)
+- [WunderList](https://www.wunderlist.com/)
+- [Evernote](https://evernote.com/)
+- [Asana](https://asana.com/)
