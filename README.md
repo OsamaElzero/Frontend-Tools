@@ -100,17 +100,6 @@ All Tools and Technologies Needed for Front-End Developers
 - [Place-Hold](https://place-hold.it/)
 - [Placehold](http://placehold.jp/en.html)
 
-## Websites to Follow
-
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Css-Tricks](https://css-tricks.com/)
-- [Codrops](https://tympanus.net/codrops/)
-- [Scotch](https://scotch.io/)
-- [A List APart](https://alistapart.com/)
-- [DavidWalsh](https://davidwalsh.name/)
-- [Daverupert](https://daverupert.com/)
-- [Brianlovin](https://brianlovin.com/)
-
 ## Websites to Test Your Code
 
 - [Codepen](https://codepen.io/)
@@ -145,7 +134,42 @@ All Tools and Technologies Needed for Front-End Developers
 - [Pluralsight](https://www.pluralsight.com/codeschool)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
 
-## Unit Testing
+## Unit Testing and Automation Tools
+
+- [Jest](https://jestjs.io/)
+- [AVA](https://github.com/avajs/ava)
+- [Jasmine](https://jasmine.github.io/)
+- [Mocha](https://mochajs.org/)
+- [Tape](https://github.com/substack/tape)
+- [Cypress](https://snipcart.com/blog/frontend-testing-cypress)
+- [WebDriver](https://webdriver.io/)
+- [Test Cafe](https://github.com/DevExpress/testcafe)
+- [CasperJs](http://casperjs.org/)
+- [Nightmare](https://github.com/segmentio/nightmare)
+- [Ghost Inspector](https://ghostinspector.com/)
+- [BackStop](https://github.com/garris/BackstopJS)
+- [BrowserStack](https://www.browserstack.com/)
+- [Browserling](https://www.browserling.com/)
+- [Gremlins](https://github.com/marmelab/gremlins.js)
+- [Night Watch](http://nightwatchjs.org/)
+
+## Websites to Follow
+
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Css-Tricks](https://css-tricks.com/)
+- [Codrops](https://tympanus.net/codrops/)
+- [Scotch](https://scotch.io/)
+- [A List APart](https://alistapart.com/)
+- [DavidWalsh](https://davidwalsh.name/)
+- [Daverupert](https://daverupert.com/)
+- [Brianlovin](https://brianlovin.com/)
+- [DevTo](https://dev.to)
+
+## Famous CMS
+
+- ProcessWire
+- WordPress
+- Joomla
 
 ## Productivity Tools
 
