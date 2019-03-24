@@ -58,6 +58,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [Bulma](https://bulma.io/)
 - [Tachyons](http://tachyons.io/)
 - [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
+- [Milligram](https://milligram.io/)
 - [UI Kit](https://getuikit.com/)
 - [Kube](https://imperavi.com/kube/)
 - [KickOff](http://trykickoff.com/)
@@ -70,10 +71,16 @@ All Tools and Technologies Needed for Front-End Developers
 - [Jeet](http://jeet.gs/)
 - [SimpleGrid](https://thisisdallas.github.io/Simple-Grid/)
 
-## Task Runners
+## Task Runners and Build Tools
 
-- Gulpjs
-- Gruntjs
+- [Gulpjs](https://gulpjs.com/)
+- [WebPack](http://webpack.github.io/)
+- [Yarn](https://yarnpkg.com/en/)
+- [Gruntjs](https://gruntjs.com/)
+- [Brunch](https://brunch.io/)
+- [Broccoli](https://github.com/broccolijs/broccoli)
+- [Parcel](https://parceljs.org/)
+- [Taskr](https://github.com/lukeed/taskr)
 
 ## Websites to Follow
 
@@ -119,6 +126,8 @@ All Tools and Technologies Needed for Front-End Developers
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Pluralsight](https://www.pluralsight.com/codeschool)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
+
+## Unit Testing
 
 ## Productivity Tools
 
