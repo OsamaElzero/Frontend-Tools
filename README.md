@@ -64,6 +64,8 @@ All Tools and Technologies Needed for Front-End Developers
 - [KickOff](http://trykickoff.com/)
 - [BootFlat](https://bootflat.github.io/)
 
+## Prototyping and Wireframing
+
 ## Grid Only Tools 
 
 - [Grid Guide](http://grid.guide/)
@@ -81,6 +83,22 @@ All Tools and Technologies Needed for Front-End Developers
 - [Broccoli](https://github.com/broccolijs/broccoli)
 - [Parcel](https://parceljs.org/)
 - [Taskr](https://github.com/lukeed/taskr)
+
+## Scaffolding Tools
+
+## Placeholder Image Services
+
+- [Picsum](https://picsum.photos/)
+- [LoremPixel](http://lorempixel.com/)
+- [ImgPlaceholder](https://imgplaceholder.com/)
+- [DummySrc](https://dummysrc.com/)
+- [IpsumImage](https://ipsumimage.appspot.com/)
+- [PlaceImg](https://placeimg.com/)
+- [DummyImage](https://dummyimage.com/)
+- [FakeImagePlease](https://fakeimg.pl/)
+- [Placeholder](https://placeholder.com/)
+- [Place-Hold](https://place-hold.it/)
+- [Placehold](http://placehold.jp/en.html)
 
 ## Websites to Follow
 
