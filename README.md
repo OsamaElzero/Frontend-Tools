@@ -256,6 +256,8 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - WordPress
 - Joomla
 - Drupal
+- Statamic - $$$ - Flat CMS without a database
+
 
 ## Courses Websites
 
