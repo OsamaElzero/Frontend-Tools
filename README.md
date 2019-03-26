@@ -1,7 +1,36 @@
-# Front-End Developers Tools
-All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
+# Front-End Developers Tools [![Build Status](https://travis-ci.org/kerolloz/Frontend-Tools.svg?branch=master)](https://travis-ci.org/kerolloz/Frontend-Tools)
+>All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
-## Editors and IDE's
+## Contents
+- [Editors and IDEs](#editors-and-ides)
+- [Atom](#atom)
+  * [Recommended Packages](#recommended-packages)
+  * [Recommended Themes](#recommended-themes)
+- [Css Preprocessors and Tools](#css-preprocessors-and-tools)
+- [HTML Template Engines and Processors](#html-template-engines-and-processors)
+- [JavaScript Transpilers and Compilers](#javascript-transpilers-and-compilers)
+- [Design Frameworks and UI Kits](#design-frameworks-and-ui-kits)
+- [Prototyping and Wireframing](#prototyping-and-wireframing)
+- [Grid Only Tools](#grid-only-tools)
+- [Task Runners and Build Tools](#task-runners-and-build-tools)
+- [Test Performance](#test-performance)
+- [Scaffolding Tools](#scaffolding-tools)
+- [Websites For Icons](#websites-for-icons)
+- [Placeholder Image Services](#placeholder-image-services)
+- [Compare Code](#compare-code)
+- [Websites to Test Your Code](#websites-to-test-your-code)
+- [Version Controls](#version-controls)
+- [References](#references)
+- [Unit Testing and Automation Tools](#unit-testing-and-automation-tools)
+- [Developments Communities](#developments-communities)
+- [Websites to Follow](#websites-to-follow)
+- [Developments News](#developments-news)
+- [Famous CMS](#famous-cms)
+- [Courses Websites](#courses-websites)
+- [Productivity Tools](#productivity-tools)
+
+
+## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
@@ -16,7 +45,8 @@ All the Famous Editors you need to start working on your projects.
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
 
-## Atom Editor Recommended packages
+## Atom
+### Recommended Packages
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
 - [Linter Ui Default](https://atom.io/packages/linter-ui-default)
@@ -30,7 +60,7 @@ All the Famous Editors you need to start working on your projects.
 - [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
 - [Color Picker](https://atom.io/packages/color-picker)
 - [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
-## Atom Editor Recommended themes
+### Recommended Themes
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
@@ -231,7 +261,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Udacity](https://www.udacity.com/)
 - [Lynda](https://www.lynda.com/)
-- [Coursera](https://coursera.org/)
+- [Coursera](https://www.coursera.org/ )
 - [TeamTreeHouse](https://teamtreehouse.com/)
 - [Udemy](https://www.udemy.com/)
 - [Edx](https://www.edx.org/)
