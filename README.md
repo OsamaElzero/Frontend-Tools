@@ -1,4 +1,5 @@
 # Front-End Developers Tools
+[![Build Status](https://travis-ci.org/kerolloz/Frontend-Tools.svg?branch=master)](https://travis-ci.org/kerolloz/Frontend-Tools)
 All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
 ## Editors and IDE's
