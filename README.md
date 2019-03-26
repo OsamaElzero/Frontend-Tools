@@ -1,6 +1,7 @@
 # Front-End Developers Tools [![Build Status](https://travis-ci.org/kerolloz/Frontend-Tools.svg?branch=master)](https://travis-ci.org/kerolloz/Frontend-Tools)
 All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
+
 ## Editors and IDE's
 All the Famous Editors you need to start working on your projects.
 
@@ -16,7 +17,8 @@ All the Famous Editors you need to start working on your projects.
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
 
-## Atom Editor Recommended packages
+## Atom
+### Recommended Packages
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
 - [Linter Ui Default](https://atom.io/packages/linter-ui-default)
@@ -30,7 +32,7 @@ All the Famous Editors you need to start working on your projects.
 - [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
 - [Color Picker](https://atom.io/packages/color-picker)
 - [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
-## Atom Editor Recommended themes
+### Recommended Themes
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
