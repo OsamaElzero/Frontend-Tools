@@ -84,6 +84,16 @@ All Tools and Technologies Needed for Front-End Developers
 - [Parcel](https://parceljs.org/)
 - [Taskr](https://github.com/lukeed/taskr)
 
+## Test Performance
+
+- [Gtmetrix](https://gtmetrix.com/)
+- [Pingdom Tools](https://tools.pingdom.com/)
+- [Key CDN](https://tools.keycdn.com/speed)
+- [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Web Page Test](https://www.webpagetest.org/)
+- [Dot Com Tools](https://www.dotcom-tools.com/website-speed-test.aspx)
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+
 ## Scaffolding Tools
 
 ## Placeholder Image Services
@@ -102,7 +112,12 @@ All Tools and Technologies Needed for Front-End Developers
 
 ## Compare Code
 
+- [Mergely](http://www.mergely.com/editor)
 - [Diffchecker](https://www.diffchecker.com/)
+- [Text Compare](https://text-compare.com/)
+- [Diffnow](https://www.diffnow.com/compare-clips)
+- [Quickdiff](https://www.quickdiff.com/)
+- [FillDiff](https://codebeautify.org/file-diff)
 
 ## Websites to Test Your Code
 
