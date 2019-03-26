@@ -12,6 +12,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [Notepad++](https://notepad-plus-plus.org/) Free
 - [Vim](https://www.vim.org/) Free
 - [PHP Storm](https://www.jetbrains.com/phpstorm/) $$
+- [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
 
 ## Css Preprocessors and Tools
@@ -96,6 +97,10 @@ All Tools and Technologies Needed for Front-End Developers
 
 ## Scaffolding Tools
 
+## Websites For Icons
+
+- [The Noun Project](https://thenounproject.com/)
+
 ## Placeholder Image Services
 
 - [Picsum](https://picsum.photos/)
@@ -159,7 +164,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [Gremlins](https://github.com/marmelab/gremlins.js)
 - [Night Watch](http://nightwatchjs.org/)
 
-## Web Development Communities
+## Developments Communities
 
 - [HashNode](https://hashnode.com)
 - [Front End Front](https://frontendfront.com/)
@@ -178,6 +183,16 @@ All Tools and Technologies Needed for Front-End Developers
 - [Daverupert](https://daverupert.com/)
 - [Brianlovin](https://brianlovin.com/)
 - [DevTo](https://dev.to)
+
+## Developments News
+
+- [Front-End Focus](https://frontendfoc.us/)
+- [Friday Front-End](https://fridayfrontend.com/)
+- [Dev Tips](https://umaar.com/dev-tips/)
+- [Fresh Brewed](https://freshbrewed.co/)
+- [Web Develop Reading List](https://wdrl.info/)
+- [Web Ops](https://webopsweekly.com/)
+- [Web Tools Weekly](https://webtoolsweekly.com/)
 
 ## Famous CMS
 
