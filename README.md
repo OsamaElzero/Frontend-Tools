@@ -2,7 +2,7 @@
 >All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
 ## Contents
-- [Editors and IDE's](#editors-and-ides)
+- [Editors and IDEs](#editors-and-ides)
 - [Atom](#atom)
   * [Recommended Packages](#recommended-packages)
   * [Recommended Themes](#recommended-themes)
