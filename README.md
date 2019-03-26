@@ -230,11 +230,11 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Courses Websites
 
 - [Udacity](https://www.udacity.com/)
-- Lynda
-- Coursera
+- [Lynda](https://www.lynda.com/)
+- [Coursera](https://coursera.org/)
 - [TeamTreeHouse](https://teamtreehouse.com/)
 - [Udemy](https://www.udemy.com/)
-- Edx
+- [Edx](https://www.edx.org/)
 - [EggHead](https://egghead.io/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Pluralsight](https://www.pluralsight.com/codeschool)
