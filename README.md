@@ -232,7 +232,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Udacity](https://www.udacity.com/)
 - [Lynda](https://www.lynda.com/)
-- [Coursera](https://coursera.org/)
+- [Coursera](https://www.coursera.org/ )
 - [TeamTreeHouse](https://teamtreehouse.com/)
 - [Udemy](https://www.udemy.com/)
 - [Edx](https://www.edx.org/)
