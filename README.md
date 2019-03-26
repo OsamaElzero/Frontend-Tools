@@ -159,6 +159,14 @@ All Tools and Technologies Needed for Front-End Developers
 - [Gremlins](https://github.com/marmelab/gremlins.js)
 - [Night Watch](http://nightwatchjs.org/)
 
+## Web Development Communities
+
+- [HashNode](https://hashnode.com)
+- [Front End Front](https://frontendfront.com/)
+- [Refind](https://refind.com)
+- [StackOverFlow](https://stackoverflow.com/)
+- [SitePoint](https://www.sitepoint.com/community/)
+
 ## Websites to Follow
 
 - [Smashing Magazine](https://www.smashingmagazine.com/)
