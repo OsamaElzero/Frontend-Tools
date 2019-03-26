@@ -16,6 +16,24 @@ All the Famous Editors you need to start working on your projects.
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
 
+## Atom Editor Recommended packages
+- [Atom Ternjs](https://atom.io/packages/atom-ternjs)
+- [Linter](https://atom.io/packages/linter)
+- [Linter Ui Default](https://atom.io/packages/linter-ui-default)
+- [Linter JsHint](https://atom.io/packages/linter-jshint)
+- [Script](https://atom.io/packages/script)
+- [Atom Path Intellisense](https://atom.io/packages/atom-path-intellisense)
+- [Atom Live Server](https://atom.io/packages/atom-live-server)
+- [Atom Beautify](https://atom.io/packages/atom-beautify)
+- [Minimap](https://atom.io/packages/minimap)
+- [Pigments](https://atom.io/packages/pigments)
+- [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
+- [Color Picker](https://atom.io/packages/color-picker)
+- [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
+## Atom Editor Recommended themes
+- [Seti Ui](https://atom.io/themes/seti-ui)
+- [Seti Syntax](https://atom.io/themes/seti-syntax)
+
 ## Css Preprocessors and Tools
 Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
 
