@@ -1,7 +1,8 @@
 # Front-End Developers Tools
-All Tools and Technologies Needed for Front-End Developers
+All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
 ## Editors and IDE's
+All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
 - [Atom](https://atom.io/) Free
@@ -16,6 +17,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [AptanaStudio](http://www.aptana.com/) Free
 
 ## Css Preprocessors and Tools
+Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
 
 - [Sass](https://sass-lang.com/)
 - [Less](http://lesscss.org/)
@@ -30,6 +32,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [Style Cow](http://stylecow.github.io/)
 
 ## HTML Template Engines and Processors
+Template Engines help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing HTML Code. Although Save you Time and Make You Focus on Other Things.
 
 - [Pug](https://pugjs.org/api/getting-started.html)
 - [Slim](http://slim-lang.com/)
@@ -44,8 +47,10 @@ All Tools and Technologies Needed for Front-End Developers
 - [Blade](https://github.com/bminer/node-blade)
 
 ## JavaScript Transpilers and Compilers
+It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
 
 ## Design Frameworks and UI Kits
+All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Semantic UI](https://semantic-ui.com/)
@@ -67,7 +72,8 @@ All Tools and Technologies Needed for Front-End Developers
 
 ## Prototyping and Wireframing
 
-## Grid Only Tools 
+## Grid Only Tools
+Only Grids Systems if you don't Want to Use Framework Components.
 
 - [Grid Guide](http://grid.guide/)
 - [960 Grid](https://960.gs/)
@@ -86,6 +92,7 @@ All Tools and Technologies Needed for Front-End Developers
 - [Taskr](https://github.com/lukeed/taskr)
 
 ## Test Performance
+Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Gtmetrix](https://gtmetrix.com/)
 - [Pingdom Tools](https://tools.pingdom.com/)
