@@ -30,7 +30,7 @@
 - [Productivity Tools](#productivity-tools)
 
 
-## Editors and IDE's
+## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
