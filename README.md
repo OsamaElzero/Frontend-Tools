@@ -100,6 +100,10 @@ All Tools and Technologies Needed for Front-End Developers
 - [Place-Hold](https://place-hold.it/)
 - [Placehold](http://placehold.jp/en.html)
 
+## Compare Code
+
+- [Diffchecker](https://www.diffchecker.com/)
+
 ## Websites to Test Your Code
 
 - [Codepen](https://codepen.io/)
@@ -120,19 +124,6 @@ All Tools and Technologies Needed for Front-End Developers
 - [HTML5Please](https://html5please.com/)
 - [CanIUse](https://caniuse.com/)
 - [W3Schools](https://www.w3schools.com/)
-
-## Courses Websites
-
-- [Udacity](https://www.udacity.com/)
-- Lynda
-- Coursera
-- [TeamTreeHouse](https://teamtreehouse.com/)
-- [Udemy](https://www.udemy.com/)
-- Edx
-- [EggHead](https://egghead.io/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Pluralsight](https://www.pluralsight.com/codeschool)
-- [LevelUpTuts](https://www.leveluptutorials.com/)
 
 ## Unit Testing and Automation Tools
 
@@ -170,6 +161,20 @@ All Tools and Technologies Needed for Front-End Developers
 - ProcessWire
 - WordPress
 - Joomla
+- Drupal
+
+## Courses Websites
+
+- [Udacity](https://www.udacity.com/)
+- Lynda
+- Coursera
+- [TeamTreeHouse](https://teamtreehouse.com/)
+- [Udemy](https://www.udemy.com/)
+- Edx
+- [EggHead](https://egghead.io/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Pluralsight](https://www.pluralsight.com/codeschool)
+- [LevelUpTuts](https://www.leveluptutorials.com/)
 
 ## Productivity Tools
 
