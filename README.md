@@ -126,6 +126,11 @@ All Frameworks and UI Kits that help you Create a cool websites and Save you Tim
 - [Kube](https://imperavi.com/kube/)
 - [KickOff](http://trykickoff.com/)
 - [BootFlat](https://bootflat.github.io/)
+- [Base](https://getbase.org/)
+- [Concise](https://concisecss.com/)
+- [Base ToolKit](http://basscss.com/)
+- [Picni CSS](https://picnicss.com/)
+- [Spectre](https://picturepan2.github.io/spectre/)
 
 ## Prototyping and Wireframing
 
@@ -210,6 +215,13 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [W3Schools](https://www.w3schools.com/)
 - [HTML Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 - [HTML Reference](https://htmlreference.io/)
+- [CSS Index](https://drafts.csswg.org/indexes/)
+- [CSS4](http://css4.rocks/)
+- [CSS4 Selectors](https://css4-selectors.com/)
+- [CSS Values](https://cssvalues.com/)
+- [Css Triggers](https://csstriggers.com/)
+- [CSS3 Test](https://css3test.com/)
+- [CSS Reference](https://cssreference.io/)
 
 ## Unit Testing and Automation Tools
 
