@@ -1,5 +1,8 @@
-# Front-End Developers Tools [![Build Status](https://travis-ci.org/kerolloz/Frontend-Tools.svg?branch=master)](https://travis-ci.org/kerolloz/Frontend-Tools)
+# Front-End Developers Tools
 >All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
+
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/OsamaElzero/Frontend-Tools.svg)](http://hits.dwyl.io/OsamaElzero/Frontend-Tools)
+
 
 ## Contents
 - [Editors and IDEs](#editors-and-ides)
@@ -45,8 +48,7 @@ All the Famous Editors you need to start working on your projects.
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
 
-## Atom
-### Recommended Packages
+## Atom Recommended Packages
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
 - [Linter Ui Default](https://atom.io/packages/linter-ui-default)
@@ -60,7 +62,8 @@ All the Famous Editors you need to start working on your projects.
 - [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
 - [Color Picker](https://atom.io/packages/color-picker)
 - [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
-### Recommended Themes
+
+## Atom Recommended Themes
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
@@ -93,6 +96,11 @@ Template Engines help you do your work Fast, easy and More Dynamic with a Hard C
 - [Squirrelly](https://squirrelly.js.org/)
 - [Marko](https://github.com/marko-js/marko)
 - [Blade](https://github.com/bminer/node-blade)
+
+## HTML Ready Template to Start Projects
+
+- [Html5Boilerplate](https://html5boilerplate.com/)
+- [Html5Bones](https://html5bones.com/)
 
 ## JavaScript Transpilers and Compilers
 It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
@@ -200,6 +208,8 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [HTML5Please](https://html5please.com/)
 - [CanIUse](https://caniuse.com/)
 - [W3Schools](https://www.w3schools.com/)
+- [HTML Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
+- [HTML Reference](https://htmlreference.io/)
 
 ## Unit Testing and Automation Tools
 
