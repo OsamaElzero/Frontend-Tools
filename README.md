@@ -6,9 +6,6 @@
 
 ## Contents
 - [Editors and IDEs](#editors-and-ides)
-- [Atom](#atom)
-  * [Recommended Packages](#recommended-packages)
-  * [Recommended Themes](#recommended-themes)
 - [Css Preprocessors and Tools](#css-preprocessors-and-tools)
 - [HTML Template Engines and Processors](#html-template-engines-and-processors)
 - [JavaScript Transpilers and Compilers](#javascript-transpilers-and-compilers)
@@ -32,12 +29,11 @@
 - [Courses Websites](#courses-websites)
 - [Productivity Tools](#productivity-tools)
 
-
 ## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
-- [Atom](https://atom.io/) Free
+- [Atom](https://atom.io/) Free | [Recommended Packages](#atom-recommended-packages), [Recommended Themes](#atom-recommended-themes)
 - [SublimeText](http://www.sublimetext.com/) $$
 - [Coda](https://panic.com/coda/) $$
 - [KomodoEdit](https://www.activestate.com/products/komodo-ide/downloads/edit/) Free
@@ -47,25 +43,6 @@ All the Famous Editors you need to start working on your projects.
 - [PHP Storm](https://www.jetbrains.com/phpstorm/) $$
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
-
-## Atom Recommended Packages
-- [Atom Ternjs](https://atom.io/packages/atom-ternjs)
-- [Linter](https://atom.io/packages/linter)
-- [Linter Ui Default](https://atom.io/packages/linter-ui-default)
-- [Linter JsHint](https://atom.io/packages/linter-jshint)
-- [Script](https://atom.io/packages/script)
-- [Atom Path Intellisense](https://atom.io/packages/atom-path-intellisense)
-- [Atom Live Server](https://atom.io/packages/atom-live-server)
-- [Atom Beautify](https://atom.io/packages/atom-beautify)
-- [Minimap](https://atom.io/packages/minimap)
-- [Pigments](https://atom.io/packages/pigments)
-- [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
-- [Color Picker](https://atom.io/packages/color-picker)
-- [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
-
-## Atom Recommended Themes
-- [Seti Ui](https://atom.io/themes/seti-ui)
-- [Seti Syntax](https://atom.io/themes/seti-syntax)
 
 ## Css Preprocessors and Tools
 Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
@@ -106,6 +83,7 @@ Template Engines help you do your work Fast, easy and More Dynamic with a Hard C
 It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
 
 - [Babel js](https://babeljs.io/)
+
 ## Design Frameworks and UI Kits
 All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
 
@@ -134,6 +112,14 @@ All Frameworks and UI Kits that help you Create a cool websites and Save you Tim
 
 ## Prototyping and Wireframing
 
+- [Balsamiq](https://balsamiq.com/)
+- [UxPin](https://www.uxpin.com/)
+- [WireFrame](https://wireframe.cc/)
+- [Axure](https://www.axure.com/)
+- [JustInMind](https://www.justinmind.com/)
+- [FluidUI](https://www.fluidui.com/)
+- [Pidoco](https://pidoco.com/en)
+
 ## Grid Only Tools
 Only Grids Systems if you don't Want to Use Framework Components.
 
@@ -141,6 +127,16 @@ Only Grids Systems if you don't Want to Use Framework Components.
 - [960 Grid](https://960.gs/)
 - [Jeet](http://jeet.gs/)
 - [SimpleGrid](https://thisisdallas.github.io/Simple-Grid/)
+
+## Deal with Colours
+Websites to deal with colors and choose combinations and Test colours.
+
+- [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
+- [Material](https://material.io/collections/color/)
+- [Coolors](https://coolors.co/161925-23395b-406e8e-8ea8c3-cbf7ed)
+- [Clrs](http://clrs.cc/)
+- [SipApp](http://sipapp.io/)
+- [Palettable](https://www.palettable.io/EDF2CA)
 
 ## Task Runners and Build Tools
 
@@ -299,3 +295,22 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [WunderList](https://www.wunderlist.com/)
 - [Evernote](https://evernote.com/)
 - [Asana](https://asana.com/)
+
+## Atom Recommended Packages
+- [Atom Ternjs](https://atom.io/packages/atom-ternjs)
+- [Linter](https://atom.io/packages/linter)
+- [Linter Ui Default](https://atom.io/packages/linter-ui-default)
+- [Linter JsHint](https://atom.io/packages/linter-jshint)
+- [Script](https://atom.io/packages/script)
+- [Atom Path Intellisense](https://atom.io/packages/atom-path-intellisense)
+- [Atom Live Server](https://atom.io/packages/atom-live-server)
+- [Atom Beautify](https://atom.io/packages/atom-beautify)
+- [Minimap](https://atom.io/packages/minimap)
+- [Pigments](https://atom.io/packages/pigments)
+- [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
+- [Color Picker](https://atom.io/packages/color-picker)
+- [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
+
+## Atom Recommended Themes
+- [Seti Ui](https://atom.io/themes/seti-ui)
+- [Seti Syntax](https://atom.io/themes/seti-syntax)
