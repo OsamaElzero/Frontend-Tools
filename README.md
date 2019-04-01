@@ -1,8 +1,7 @@
 # Front-End Developers Tools
 >All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/OsamaElzero/Frontend-Tools.svg)](http://hits.dwyl.io/OsamaElzero/Frontend-Tools)
-
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/OsamaElzero/Frontend-Tools.svg)]
 
 ## Contents
 - [Editors and IDEs](#editors-and-ides)
@@ -192,9 +191,12 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Websites to Test Your Code
 
 - [Codepen](https://codepen.io/)
+- [CodeSandbox](https://codesandbox.io/)
 - [JsFiddle](https://jsfiddle.net/)
 - [CssDeck](http://cssdeck.com/)
+- [LiveWeave](https://liveweave.com/)
 - [JsBin](https://jsbin.com/)
+- [Plnkr](http://plnkr.co/edit/?p=catalogue)
 
 ## Version Controls
 
