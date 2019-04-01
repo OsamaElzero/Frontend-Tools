@@ -1,7 +1,7 @@
 # Front-End Developers Tools
 >All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/OsamaElzero/Frontend-Tools.svg)]
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ## Contents
 - [Editors and IDEs](#editors-and-ides)
