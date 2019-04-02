@@ -298,7 +298,9 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Evernote](https://evernote.com/)
 - [Asana](https://asana.com/)
 
-## Atom Recommended Packages
+## Visual Studio Code Editor Recommended Extensions
+
+## Atom Recommended Extensions
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
 - [Linter Ui Default](https://atom.io/packages/linter-ui-default)
@@ -316,3 +318,5 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Atom Recommended Themes
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
+
+## Gulpjs Recommended Packages
