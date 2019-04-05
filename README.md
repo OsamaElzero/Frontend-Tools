@@ -140,6 +140,7 @@ Websites to deal with colors and choose combinations and Test colours.
 - [Clrs](http://clrs.cc/)
 - [SipApp](http://sipapp.io/)
 - [Palettable](https://www.palettable.io/EDF2CA)
+- [WebGradients](https://webgradients.com/)
 
 ## Task Runners and Build Tools
 
@@ -204,10 +205,15 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 ## Version Controls
 
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
 - [Github](https://github.com/)
 - [BitBucket](https://bitbucket.org/product)
 - [GitLab](https://about.gitlab.com/)
-- [CodeAnyWhere](https://codeanywhere.com/)
+- [Phabricator](https://secure.phabricator.com/)
+- [Mercurial](https://www.mercurial-scm.org/)
+- [Apache Subversion](https://subversion.apache.org/)
+
 
 ## References
 
@@ -280,6 +286,11 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - WordPress
 - Joomla
 - Drupal
+- concrete5
+- OctoberCMS
+- Typo3
+- Contentful
+- Adobe Experience Manager
 
 ## Courses Websites
 
@@ -293,6 +304,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Pluralsight](https://www.pluralsight.com/codeschool)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
+- [Teachable](https://teachable.com/)
 
 ## Productivity Tools
 
@@ -301,12 +313,18 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [WunderList](https://www.wunderlist.com/)
 - [Evernote](https://evernote.com/)
 - [Asana](https://asana.com/)
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
+
 
 ## Visual Studio Code Editor Recommended Extensions
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+- [VSCode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+
 ## Atom Recommended Extensions
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
