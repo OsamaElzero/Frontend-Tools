@@ -303,7 +303,10 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Asana](https://asana.com/)
 
 ## Visual Studio Code Editor Recommended Extensions
-
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 ## Atom Recommended Extensions
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
