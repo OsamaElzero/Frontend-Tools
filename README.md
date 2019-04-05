@@ -82,6 +82,10 @@ Template Engines help you do your work Fast, easy and More Dynamic with a Hard C
 It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
 
 - [Babel js](https://babeljs.io/)
+- [Caja](https://developers.google.com/caja/)
+- [CoffeeScript](https://coffeescript.org/)
+- [TypeScript](http://www.typescriptlang.org/)
+- [Traceur](https://github.com/google/traceur-compiler)
 
 ## Design Frameworks and UI Kits
 All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
