@@ -1,11 +1,10 @@
-# Front-End Developers Tools [![Build Status](https://travis-ci.org/kerolloz/Frontend-Tools.svg?branch=master)](https://travis-ci.org/kerolloz/Frontend-Tools)
+# Front-End Developers Tools
 >All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
+
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ## Contents
 - [Editors and IDEs](#editors-and-ides)
-- [Atom](#atom)
-  * [Recommended Packages](#recommended-packages)
-  * [Recommended Themes](#recommended-themes)
 - [Css Preprocessors and Tools](#css-preprocessors-and-tools)
 - [HTML Template Engines and Processors](#html-template-engines-and-processors)
 - [JavaScript Transpilers and Compilers](#javascript-transpilers-and-compilers)
@@ -29,12 +28,11 @@
 - [Courses Websites](#courses-websites)
 - [Productivity Tools](#productivity-tools)
 
-
 ## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
-- [Atom](https://atom.io/) Free
+- [Atom](https://atom.io/) Free | [Recommended Packages](#atom-recommended-packages), [Recommended Themes](#atom-recommended-themes)
 - [SublimeText](http://www.sublimetext.com/) $$
 - [Coda](https://panic.com/coda/) $$
 - [KomodoEdit](https://www.activestate.com/products/komodo-ide/downloads/edit/) Free
@@ -44,25 +42,6 @@ All the Famous Editors you need to start working on your projects.
 - [PHP Storm](https://www.jetbrains.com/phpstorm/) $$
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
-
-## Atom
-### Recommended Packages
-- [Atom Ternjs](https://atom.io/packages/atom-ternjs)
-- [Linter](https://atom.io/packages/linter)
-- [Linter Ui Default](https://atom.io/packages/linter-ui-default)
-- [Linter JsHint](https://atom.io/packages/linter-jshint)
-- [Script](https://atom.io/packages/script)
-- [Atom Path Intellisense](https://atom.io/packages/atom-path-intellisense)
-- [Atom Live Server](https://atom.io/packages/atom-live-server)
-- [Atom Beautify](https://atom.io/packages/atom-beautify)
-- [Minimap](https://atom.io/packages/minimap)
-- [Pigments](https://atom.io/packages/pigments)
-- [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
-- [Color Picker](https://atom.io/packages/color-picker)
-- [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
-### Recommended Themes
-- [Seti Ui](https://atom.io/themes/seti-ui)
-- [Seti Syntax](https://atom.io/themes/seti-syntax)
 
 ## Css Preprocessors and Tools
 Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
@@ -94,10 +73,20 @@ Template Engines help you do your work Fast, easy and More Dynamic with a Hard C
 - [Marko](https://github.com/marko-js/marko)
 - [Blade](https://github.com/bminer/node-blade)
 
+## HTML Ready Template to Start Projects
+
+- [Html5Boilerplate](https://html5boilerplate.com/)
+- [Html5Bones](https://html5bones.com/)
+
 ## JavaScript Transpilers and Compilers
 It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
 
 - [Babel js](https://babeljs.io/)
+- [Caja](https://developers.google.com/caja/)
+- [CoffeeScript](https://coffeescript.org/)
+- [TypeScript](http://www.typescriptlang.org/)
+- [Traceur](https://github.com/google/traceur-compiler)
+
 ## Design Frameworks and UI Kits
 All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
 
@@ -118,8 +107,21 @@ All Frameworks and UI Kits that help you Create a cool websites and Save you Tim
 - [Kube](https://imperavi.com/kube/)
 - [KickOff](http://trykickoff.com/)
 - [BootFlat](https://bootflat.github.io/)
+- [Base](https://getbase.org/)
+- [Concise](https://concisecss.com/)
+- [Base ToolKit](http://basscss.com/)
+- [Picni CSS](https://picnicss.com/)
+- [Spectre](https://picturepan2.github.io/spectre/)
 
 ## Prototyping and Wireframing
+
+- [Balsamiq](https://balsamiq.com/)
+- [UxPin](https://www.uxpin.com/)
+- [WireFrame](https://wireframe.cc/)
+- [Axure](https://www.axure.com/)
+- [JustInMind](https://www.justinmind.com/)
+- [FluidUI](https://www.fluidui.com/)
+- [Pidoco](https://pidoco.com/en)
 
 ## Grid Only Tools
 Only Grids Systems if you don't Want to Use Framework Components.
@@ -128,6 +130,17 @@ Only Grids Systems if you don't Want to Use Framework Components.
 - [960 Grid](https://960.gs/)
 - [Jeet](http://jeet.gs/)
 - [SimpleGrid](https://thisisdallas.github.io/Simple-Grid/)
+
+## Deal with Colours
+Websites to deal with colors and choose combinations and Test colours.
+
+- [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
+- [Material](https://material.io/collections/color/)
+- [Coolors](https://coolors.co/161925-23395b-406e8e-8ea8c3-cbf7ed)
+- [Clrs](http://clrs.cc/)
+- [SipApp](http://sipapp.io/)
+- [Palettable](https://www.palettable.io/EDF2CA)
+- [WebGradients](https://webgradients.com/)
 
 ## Task Runners and Build Tools
 
@@ -183,16 +196,24 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Websites to Test Your Code
 
 - [Codepen](https://codepen.io/)
+- [CodeSandbox](https://codesandbox.io/)
 - [JsFiddle](https://jsfiddle.net/)
 - [CssDeck](http://cssdeck.com/)
+- [LiveWeave](https://liveweave.com/)
 - [JsBin](https://jsbin.com/)
+- [Plnkr](http://plnkr.co/edit/?p=catalogue)
 
 ## Version Controls
 
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
 - [Github](https://github.com/)
 - [BitBucket](https://bitbucket.org/product)
 - [GitLab](https://about.gitlab.com/)
-- [CodeAnyWhere](https://codeanywhere.com/)
+- [Phabricator](https://secure.phabricator.com/)
+- [Mercurial](https://www.mercurial-scm.org/)
+- [Apache Subversion](https://subversion.apache.org/)
+
 
 ## References
 
@@ -200,6 +221,15 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [HTML5Please](https://html5please.com/)
 - [CanIUse](https://caniuse.com/)
 - [W3Schools](https://www.w3schools.com/)
+- [HTML Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
+- [HTML Reference](https://htmlreference.io/)
+- [CSS Index](https://drafts.csswg.org/indexes/)
+- [CSS4](http://css4.rocks/)
+- [CSS4 Selectors](https://css4-selectors.com/)
+- [CSS Values](https://cssvalues.com/)
+- [Css Triggers](https://csstriggers.com/)
+- [CSS3 Test](https://css3test.com/)
+- [CSS Reference](https://cssreference.io/)
 
 ## Unit Testing and Automation Tools
 
@@ -257,7 +287,11 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - Joomla
 - Drupal
 - Statamic - $$$ - Flat CMS without a database
-
+- Concrete5
+- OctoberCMS
+- Typo3
+- Contentful
+- Adobe Experience Manager
 
 ## Courses Websites
 
@@ -271,6 +305,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Pluralsight](https://www.pluralsight.com/codeschool)
 - [LevelUpTuts](https://www.leveluptutorials.com/)
+- [Teachable](https://teachable.com/)
 
 ## Productivity Tools
 
@@ -279,3 +314,35 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [WunderList](https://www.wunderlist.com/)
 - [Evernote](https://evernote.com/)
 - [Asana](https://asana.com/)
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
+
+
+## Visual Studio Code Editor Recommended Extensions
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+- [VSCode icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+
+## Atom Recommended Extensions
+- [Atom Ternjs](https://atom.io/packages/atom-ternjs)
+- [Linter](https://atom.io/packages/linter)
+- [Linter Ui Default](https://atom.io/packages/linter-ui-default)
+- [Linter JsHint](https://atom.io/packages/linter-jshint)
+- [Script](https://atom.io/packages/script)
+- [Atom Path Intellisense](https://atom.io/packages/atom-path-intellisense)
+- [Atom Live Server](https://atom.io/packages/atom-live-server)
+- [Atom Beautify](https://atom.io/packages/atom-beautify)
+- [Minimap](https://atom.io/packages/minimap)
+- [Pigments](https://atom.io/packages/pigments)
+- [CSS Autoprefixer](https://atom.io/packages/autoprefixer)
+- [Color Picker](https://atom.io/packages/color-picker)
+- [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
+
+## Atom Recommended Themes
+- [Seti Ui](https://atom.io/themes/seti-ui)
+- [Seti Syntax](https://atom.io/themes/seti-syntax)
+
+## Gulpjs Recommended Packages
