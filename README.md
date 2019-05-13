@@ -206,8 +206,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Version Controls
 
 - [Git](https://git-scm.com/)
-- [GitHub](https://github.com)
-- [Github](https://github.com/)
+- [GitHub](https://github.com/)
 - [BitBucket](https://bitbucket.org/product)
 - [GitLab](https://about.gitlab.com/)
 - [Phabricator](https://secure.phabricator.com/)
