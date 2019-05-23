@@ -327,7 +327,6 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [OpenLayers](https://openlayers.org/)
 - [FourSquare](https://developer.foursquare.com/)
 - [MapBox](https://docs.mapbox.com/api/)
--
 
 ## Visual Studio Code Editor Recommended Extensions
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
