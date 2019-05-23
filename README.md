@@ -170,6 +170,9 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Websites For Icons
 
 - [The Noun Project](https://thenounproject.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [FontAwesome](https://fontawesome.com/)
+- [Material Icons](https://material.io/tools/icons/)
 
 ## Placeholder Image Services
 
