@@ -42,6 +42,7 @@ All the Famous Editors you need to start working on your projects.
 - [PHP Storm](https://www.jetbrains.com/phpstorm/) $$
 - [Web Storm](https://www.jetbrains.com/webstorm/) $$
 - [AptanaStudio](http://www.aptana.com/) Free
+- [netbeans](https://netbeans.org/) Free
 
 ## Css Preprocessors and Tools
 Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
