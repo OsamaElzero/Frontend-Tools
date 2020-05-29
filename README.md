@@ -27,6 +27,7 @@
 - [Famous CMS](#famous-cms)
 - [Courses Websites](#courses-websites)
 - [Productivity Tools](#productivity-tools)
+- [Maps for web](#maps-for-web)
 
 ## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
@@ -169,6 +170,9 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Websites For Icons
 
 - [The Noun Project](https://thenounproject.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [FontAwesome](https://fontawesome.com/)
+- [Material Icons](https://material.io/tools/icons/)
 
 ## Placeholder Image Services
 
@@ -291,7 +295,8 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Contentful](https://contentful.com/)
 - [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html/)
 - [PrestaShop](https://prestashop.com/)
-
+- [Sitefinity](https://www.progress.com/sitefinity-cms)
+-
 ## Courses Websites
 
 - [Udacity](https://www.udacity.com/)
@@ -316,6 +321,15 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 
+## Maps APIs for web
+
+- [Google Maps](https://cloud.google.com/maps-platform/)
+- [Leaflet](https://leafletjs.com/)
+- [Here Maps](https://developer.here.com/)
+- [Microsoft bing maps](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api)
+- [OpenLayers](https://openlayers.org/)
+- [FourSquare](https://developer.foursquare.com/)
+- [MapBox](https://docs.mapbox.com/api/)
 
 ## Visual Studio Code Editor Recommended Extensions
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
