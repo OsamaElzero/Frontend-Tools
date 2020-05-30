@@ -8,6 +8,7 @@
 - [Css Preprocessors and Tools](#css-preprocessors-and-tools)
 - [HTML Template Engines and Processors](#html-template-engines-and-processors)
 - [JavaScript Transpilers and Compilers](#javascript-transpilers-and-compilers)
+- [Package Managers](#package-managers)
 - [Design Frameworks and UI Kits](#design-frameworks-and-ui-kits)
 - [Prototyping and Wireframing](#prototyping-and-wireframing)
 - [Grid Only Tools](#grid-only-tools)
@@ -88,6 +89,11 @@ It Gives you the Ability to Write Modern JavaScript Code and use the features of
 - [TypeScript](http://www.typescriptlang.org/)
 - [Traceur](https://github.com/google/traceur-compiler)
 
+## Package Managers
+- [NPM](https://www.npmjs.com/)
+- [Bower](https://bower.io/)
+- [Yarn](https://yarnpkg.com/en/)
+
 ## Design Frameworks and UI Kits
 All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
 
@@ -147,6 +153,7 @@ Websites to deal with colors and choose combinations and Test colours.
 
 - [Gulpjs](https://gulpjs.com/)
 - [WebPack](http://webpack.github.io/)
+- [Rollup](https://rollupjs.org)
 - [Yarn](https://yarnpkg.com/en/)
 - [Gruntjs](https://gruntjs.com/)
 - [Brunch](https://brunch.io/)
@@ -157,6 +164,7 @@ Websites to deal with colors and choose combinations and Test colours.
 ## Test Performance
 Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
+- [Web.dev](https://web.dev/measure)
 - [Gtmetrix](https://gtmetrix.com/)
 - [Pingdom Tools](https://tools.pingdom.com/)
 - [Key CDN](https://tools.keycdn.com/speed)
@@ -166,6 +174,12 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
 ## Scaffolding Tools
+Tools to help you scaffold web apps projects
+
+- [Yeoman](https://yeoman.io/)
+- [SlushJS](http://slushjs.github.io/)
+- [Lineman](https://github.com/linemanjs/lineman)
+- [Create React App](https://create-react-app.dev/)
 
 ## Websites For Icons
 
@@ -177,6 +191,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Placeholder Image Services
 
 - [Picsum](https://picsum.photos/)
+- [Unsplash](https://unsplash.com/)
 - [LoremPixel](http://lorempixel.com/)
 - [ImgPlaceholder](https://imgplaceholder.com/)
 - [DummySrc](https://dummysrc.com/)
@@ -255,6 +270,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 ## Developments Communities
 
+- [DEV.to](https://dev.to/)
 - [HashNode](https://hashnode.com)
 - [Front End Front](https://frontendfront.com/)
 - [Refind](https://refind.com)
@@ -271,7 +287,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [DavidWalsh](https://davidwalsh.name/)
 - [Daverupert](https://daverupert.com/)
 - [Brianlovin](https://brianlovin.com/)
-- [DevTo](https://dev.to)
+- [DEV.to](https://dev.to)
 
 ## Developments News
 
@@ -296,7 +312,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html/)
 - [PrestaShop](https://prestashop.com/)
 - [Sitefinity](https://www.progress.com/sitefinity-cms)
--
+
 ## Courses Websites
 
 - [Udacity](https://www.udacity.com/)
@@ -321,7 +337,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 
-## Maps APIs for web
+## Maps for Web
 
 - [Google Maps](https://cloud.google.com/maps-platform/)
 - [Leaflet](https://leafletjs.com/)
@@ -357,5 +373,3 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 ## Atom Recommended Themes
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
-
-## Gulpjs Recommended Packages
