@@ -32,8 +32,8 @@
 ## Editors and IDEs
 All the Famous Editors you need to start working on your projects.
 
-- [VSCode](https://code.visualstudio.com/) Free
-- [Atom](https://atom.io/) Free | [Recommended Packages](#atom-recommended-packages), [Recommended Themes](#atom-recommended-themes)
+- [VSCode](https://code.visualstudio.com/) Free | [Recommended Extensions](#visual-studio-code-editor-recommended-extensions)
+- [Atom](https://atom.io/) Free | [Recommended Extensions](#atom-recommended-extensions), [Recommended Themes](#atom-recommended-themes)
 - [SublimeText](http://www.sublimetext.com/) $$
 - [Coda](https://panic.com/coda/) $$
 - [KomodoEdit](https://www.activestate.com/products/komodo-ide/downloads/edit/) Free
