@@ -142,6 +142,7 @@ Websites to deal with colors and choose combinations and Test colours.
 - [SipApp](http://sipapp.io/)
 - [Palettable](https://www.palettable.io/EDF2CA)
 - [WebGradients](https://webgradients.com/)
+-[cssgradient](https://cssgradient.io)
 
 ## Task Runners and Build Tools
 
