@@ -3,7 +3,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-## Contents
+### Contents
 - [Editors and IDEs](#editors-and-ides)
 - [Css Preprocessors and Tools](#css-preprocessors-and-tools)
 - [HTML Template Engines and Processors](#html-template-engines-and-processors)
