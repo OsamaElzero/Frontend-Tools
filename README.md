@@ -1,9 +1,11 @@
 # Front-End Developers Tools
->All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
+
+> All Tools and Technologies Needed for Front-End Developers, Orderd by My Recommendations
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ## Contents
+
 - [Editors and IDEs](#editors-and-ides)
 - [Css Preprocessors and Tools](#css-preprocessors-and-tools)
 - [HTML Template Engines and Processors](#html-template-engines-and-processors)
@@ -30,6 +32,7 @@
 - [Maps for web](#maps-for-web)
 
 ## Editors and IDEs
+
 All the Famous Editors you need to start working on your projects.
 
 - [VSCode](https://code.visualstudio.com/) Free
@@ -45,6 +48,7 @@ All the Famous Editors you need to start working on your projects.
 - [AptanaStudio](http://www.aptana.com/) Free
 
 ## Css Preprocessors and Tools
+
 Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing CSS Code. Although Save you Time and Make You Focus on Other Things.
 
 - [Sass](https://sass-lang.com/)
@@ -60,9 +64,10 @@ Css PreProcessing Tools help you do your work Fast, easy and More Dynamic with a
 - [Style Cow](http://stylecow.github.io/)
 
 ## HTML Template Engines and Processors
+
 Template Engines help you do your work Fast, easy and More Dynamic with a Hard Chance to fail When writing HTML Code. Although Save you Time and Make You Focus on Other Things.
 
-- [Pug](https://pugjs.org/api/getting-started.html)
+- [Pugjs](https://pugjs.org/api/getting-started.html)
 - [Slim](http://slim-lang.com/)
 - [Haml](http://haml.info/tutorial.html)
 - [Mustache](https://mustache.github.io/)
@@ -80,6 +85,7 @@ Template Engines help you do your work Fast, easy and More Dynamic with a Hard C
 - [Html5Bones](https://html5bones.com/)
 
 ## JavaScript Transpilers and Compilers
+
 It Gives you the Ability to Write Modern JavaScript Code and use the features of ES6, 7, 8
 
 - [Babel js](https://babeljs.io/)
@@ -89,6 +95,7 @@ It Gives you the Ability to Write Modern JavaScript Code and use the features of
 - [Traceur](https://github.com/google/traceur-compiler)
 
 ## Design Frameworks and UI Kits
+
 All Frameworks and UI Kits that help you Create a cool websites and Save you Time and Power.
 
 - [Bootstrap](https://getbootstrap.com/)
@@ -125,6 +132,7 @@ All Frameworks and UI Kits that help you Create a cool websites and Save you Tim
 - [Pidoco](https://pidoco.com/en)
 
 ## Grid Only Tools
+
 Only Grids Systems if you don't Want to Use Framework Components.
 
 - [Grid Guide](http://grid.guide/)
@@ -133,6 +141,7 @@ Only Grids Systems if you don't Want to Use Framework Components.
 - [SimpleGrid](https://thisisdallas.github.io/Simple-Grid/)
 
 ## Deal with Colours
+
 Websites to deal with colors and choose combinations and Test colours.
 
 - [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
@@ -155,6 +164,7 @@ Websites to deal with colors and choose combinations and Test colours.
 - [Taskr](https://github.com/lukeed/taskr)
 
 ## Test Performance
+
 Tools to Help You Test Your Website Speed, Performance and Accessibility.
 
 - [Gtmetrix](https://gtmetrix.com/)
@@ -216,7 +226,6 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Phabricator](https://secure.phabricator.com/)
 - [Mercurial](https://www.mercurial-scm.org/)
 - [Apache Subversion](https://subversion.apache.org/)
-
 
 ## References
 
@@ -297,11 +306,12 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [PrestaShop](https://prestashop.com/)
 - [Sitefinity](https://www.progress.com/sitefinity-cms)
 -
+
 ## Courses Websites
 
 - [Udacity](https://www.udacity.com/)
 - [Lynda](https://www.lynda.com/)
-- [Coursera](https://www.coursera.org/ )
+- [Coursera](https://www.coursera.org/)
 - [TeamTreeHouse](https://teamtreehouse.com/)
 - [Udemy](https://www.udemy.com/)
 - [Edx](https://www.edx.org/)
@@ -332,6 +342,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [MapBox](https://docs.mapbox.com/api/)
 
 ## Visual Studio Code Editor Recommended Extensions
+
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
@@ -340,6 +351,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 
 ## Atom Recommended Extensions
+
 - [Atom Ternjs](https://atom.io/packages/atom-ternjs)
 - [Linter](https://atom.io/packages/linter)
 - [Linter Ui Default](https://atom.io/packages/linter-ui-default)
@@ -355,6 +367,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [Atom Windows TitleBar](https://atom.io/packages/atom-windows-titlebar)
 
 ## Atom Recommended Themes
+
 - [Seti Ui](https://atom.io/themes/seti-ui)
 - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
