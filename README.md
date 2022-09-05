@@ -35,8 +35,8 @@
 
 All the Famous Editors you need to start working on your projects.
 
-- [VSCode](https://code.visualstudio.com/) Free
-- [Atom](https://atom.io/) Free | [Recommended Packages](#atom-recommended-packages), [Recommended Themes](#atom-recommended-themes)
+- [VSCode](https://code.visualstudio.com/) Free | [Recommended Extensions](#visual-studio-code-editor-recommended-extensions)
+- [Atom](https://atom.io/) Free | [Recommended Extensions](#atom-recommended-extensions), [Recommended Themes](#atom-recommended-themes)
 - [SublimeText](http://www.sublimetext.com/) $$
 - [Coda](https://panic.com/coda/) $$
 - [KomodoEdit](https://www.activestate.com/products/komodo-ide/downloads/edit/) Free
@@ -130,6 +130,9 @@ All Frameworks and UI Kits that help you Create a cool websites and Save you Tim
 - [JustInMind](https://www.justinmind.com/)
 - [FluidUI](https://www.fluidui.com/)
 - [Pidoco](https://pidoco.com/en)
+## UI & UX
+- [Adobe XD](https://www.adobe.com/products/xd.html) Free & Paid
+- [Gravit Designer](https://www.designer.io/en/) Free & Paid
 
 ## Grid Only Tools
 
@@ -216,6 +219,7 @@ Tools to Help You Test Your Website Speed, Performance and Accessibility.
 - [LiveWeave](https://liveweave.com/)
 - [JsBin](https://jsbin.com/)
 - [Plnkr](http://plnkr.co/edit/?p=catalogue)
+- [Repl.it](https://repl.it/)
 
 ## Version Controls
 
