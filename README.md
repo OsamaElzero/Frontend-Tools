@@ -162,6 +162,7 @@ Websites to deal with colors and choose combinations and Test colours.
 - [Broccoli](https://github.com/broccolijs/broccoli)
 - [Parcel](https://parceljs.org/)
 - [Taskr](https://github.com/lukeed/taskr)
+- [Rollup](https://rollupjs.org/)
 
 ## Test Performance
 
